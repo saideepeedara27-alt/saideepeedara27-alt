@@ -55,27 +55,11 @@
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| 🌍 **AQI Trends** | Live AQI monitoring across 15+ Indian & 6 global cities with ARIMA / Holt-Winters forecasting | MERN, Jenkins, AWS EC2 | [aqitrends.online](https://aqitrends.online) |
-| ⚙️ **DOIMS** | Distributed order & inventory system — async reservation via Redis Streams, atomic stock updates, full CI pipeline | Spring Boot 3, Redis, PostgreSQL, Docker, GitHub Actions | [Repo](https://github.com/saideepeedara27-alt) |
-| 🌾 **Kisan Connect** | Farm-to-customer marketplace with role-based dashboards, JWT + Google OAuth, and area-based delivery | MERN, AWS EC2, Caddy, Docker | [Repo](https://github.com/saideepeedara27-alt) |
-| 🧪 **Explainable AI — Soil Prediction** | Stacking ensemble (RF + Extra Trees + XGBoost) achieving 99.54% accuracy across 22 crop classes with per-prediction SHAP & LIME explanations | Python, XGBoost, SHAP, LIME | [Repo](https://github.com/saideepeedara27-alt) |
-| 📊 **Indian Startup Funding Dashboard** | Two-view Tableau dashboard analysing 5 years of startup funding — deal counts, sectors, cities, top investors | Tableau, CSV | [Repo](https://github.com/saideepeedara27-alt) |
-
-> 🔗 Replace the `[Repo]` links above with your actual repository URLs.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saideepeedara27-alt&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepeedara27-alt&layout=compact&hide_border=true&langs_count=8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saideepeedara27-alt&hide_border=true&mode=weekly" />
-</p>
+| 🌍 **AQI Trends** | Live AQI monitoring across 15+ Indian & 6 global cities with ARIMA / Holt-Winters forecasting | MERN, Jenkins, AWS EC2 | [aqitrends.online](https://aqitrends.online) · [Repo](https://github.com/sathwiksyr/Air-quality-trend-analysis_final) |
+| ⚙️ **DOIMS** | Distributed order & inventory system — async reservation via Redis Streams, atomic stock updates, full CI pipeline | Spring Boot 3, Redis, PostgreSQL, Docker, GitHub Actions | [Repo](https://github.com/saideepeedara27-alt/Distributed-Order-and-Inventory-Management-System-DOIMS) |
+| 🌾 **Kisan Connect** | Farm-to-customer marketplace with role-based dashboards, JWT + Google OAuth, and area-based delivery | MERN, AWS EC2, Caddy, Docker | [Repo](https://github.com/saideepeedara27-alt/Kisan-Connect-MERN-Application) |
+| 🧪 **Explainable AI — Soil Prediction** | Stacking ensemble (RF + Extra Trees + XGBoost) achieving 99.54% accuracy across 22 crop classes with per-prediction SHAP & LIME explanations | Python, XGBoost, SHAP, LIME | 🔒 Repo coming soon |
+| 📊 **Indian Startup Funding Dashboard** | Two-view Tableau dashboard analysing 5 years of startup funding — deal counts, sectors, cities, top investors | Tableau, CSV | [Repo](https://github.com/saideepeedara27-alt/Indian-startup-funding-intelligence-dashboard-tableau) |
 
 ---
 
@@ -95,19 +79,4 @@
   <a href="https://linkedin.com/in/saideepeedara">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:saideepeedara27@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://aqitrends.online">Live Project</a>
-</p>## Hi there 👋
-
-<!--
-**saideepeedara27-alt/saideepeedara27-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
