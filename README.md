@@ -3,39 +3,39 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:22D3EE&height=200&section=header&text=Saideep%20Eedara&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Machine+Learning+%2F+Explainable+AI;Backend+%26+Distributed+Systems;Open+to+SDE+%2F+ML+%2F+Data+Eng+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Machine+Learning+%2F+Explainable+AI;Backend+%26+Distributed+Systems;Final+Year+%E2%80%94+Actively+Interviewing" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🟢_OPEN_TO_INTERNSHIPS-Summer%2FFall_2026-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_FINAL_YEAR-Batch_of_2027-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📌_STATUS-Sitting_for_Placements-16A34A?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://linkedin.com/in/saideepeedara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saideepeedara27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://aqitrends.online"><img src="https://img.shields.io/badge/Live_Project-16A34A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/saideepeedara27-alt?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br>
 
-## 👋 Quick Pitch
+## About Me
 
-Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 2027) who ships complete products, not prototypes — from a live deployed app with real users and forecasting, to a backend system engineered for correctness under load, to an ML model that explains every prediction it makes.
+Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 2027), currently sitting for campus placements. I like owning a problem end to end — from idea to a deployed, working system — across full-stack development, backend engineering, and applied machine learning.
 
 <div align="center">
 
-| 🚀 Live in Production | 🎯 99.54% | 🏙️ 21 Cities | ⚙️ 7 Projects |
-|:---:|:---:|:---:|:---:|
-| AQI Trends is deployed & running | ML model accuracy on 22 crop classes | Tracked in real time for air quality | Shipped end-to-end, not just prototyped |
+| 🎯 99.54% | 🏙️ 21 Cities | ⚙️ 7 Projects |
+|:---:|:---:|:---:|
+| ML model accuracy across 22 crop classes | Tracked in real time for air-quality forecasting | Built end-to-end, not just prototyped |
 
 </div>
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,31 +72,28 @@ Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 20
 
 <br>
 
-## 🏆 Flagship Work
+## Flagship Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌍 AQI Trends
-**Live at [aqitrends.online](https://aqitrends.online)**
 
-- Built and **deployed** a real-time air-quality tracker covering **15+ Indian and 6 global cities**
+- Built and deployed a real-time air-quality tracker covering **15+ Indian and 6 global cities**
 - Layered **ARIMA / Holt-Winters forecasting** on top of live sensor data to predict trends, not just report them
-- Shipped with a **Jenkins CI/CD pipeline** to AWS EC2 — this isn't a local demo, it's running in production right now
+- Set up a **Jenkins CI/CD pipeline** to AWS EC2 for automated, repeatable deployments
 
 `MERN` · `Jenkins` · `AWS EC2`
-&nbsp;&nbsp;[**→ View Live**](https://aqitrends.online) · [Source](https://github.com/sathwiksyr/Air-quality-trend-analysis_final)
+&nbsp;&nbsp;[Source](https://github.com/sathwiksyr/Air-quality-trend-analysis_final)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧪 Explainable AI — Soil & Crop Prediction
-**99.54% accuracy across 22 crop classes**
 
-- Engineered a **stacking ensemble** (Random Forest + Extra Trees + XGBoost) to beat single-model baselines on crop classification
-- Integrated **SHAP and LIME** so every prediction ships with a human-readable explanation of *why* — not just a black-box output
-- Built as part of ongoing R&D work at NIIT University
+- Engineered a **stacking ensemble** (Random Forest + Extra Trees + XGBoost) to beat single-model baselines, reaching **99.54% accuracy** on 22 crop classes
+- Integrated **SHAP and LIME** so every prediction ships with a human-readable explanation of *why*, not a black-box output
 
 `Python` · `XGBoost` · `SHAP` · `LIME`
 &nbsp;&nbsp;[Source](https://github.com/saideepeedara27-alt/Explainable-AI-Soil-Prediction)
@@ -107,11 +104,9 @@ Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 20
 <td width="50%" valign="top">
 
 ### ⚙️ DOIMS — Distributed Order & Inventory System
-**Engineered for correctness under concurrent load**
 
-- Designed a distributed system to prevent overselling and stock drift when multiple orders hit at once
+- Designed a distributed system to prevent overselling and stock drift under concurrent order load
 - Wired up a **full CI pipeline** with GitHub Actions so every change is tested automatically before merge
-- Focused on backend correctness and system design, not just feature count
 
 `Java` · `Docker` · `GitHub Actions`
 &nbsp;&nbsp;[Source](https://github.com/saideepeedara27-alt/Distributed-Order-and-Inventory-Management-System-DOIMS)
@@ -120,11 +115,10 @@ Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 20
 <td width="50%" valign="top">
 
 ### 🌾 Kisan Connect
-**Farm-to-customer marketplace, built solo**
 
 - Built role-based dashboards so farmers and buyers each get a tailored experience from the same codebase
-- Implemented secure auth with **JWT + Google OAuth**, and delivery logic that adapts to the buyer's location
-- Deployed on **AWS EC2** behind Docker and Caddy
+- Implemented secure auth with **JWT + Google OAuth**, plus delivery logic that adapts to the buyer's location
+- Deployed on **AWS EC2** behind Docker
 
 `MERN` · `AWS EC2` · `Docker`
 &nbsp;&nbsp;[Source](https://github.com/saideepeedara27-alt/Kisan-Connect-MERN-Application)
@@ -135,13 +129,13 @@ Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 20
 
 <br>
 
-## 📦 More Projects
+## More Projects
 
 <table>
 <tr><th align="left">Project</th><th align="left">Highlights</th><th align="left">Stack</th></tr>
 <tr>
 <td>⚖️ <a href="https://github.com/saideepeedara27-alt/rag-legal-due-diligence-copilot"><b>RAG Legal Due Diligence Co-Pilot</b></a></td>
-<td>AI assistant that answers legal-review questions grounded in real source documents via Retrieval-Augmented Generation, not model guesswork.</td>
+<td>AI assistant that answers legal-review questions grounded in real source documents via Retrieval-Augmented Generation.</td>
 <td><sub>Python · FastAPI · Next.js · Qdrant · Gemini</sub></td>
 </tr>
 <tr>
@@ -160,45 +154,35 @@ Final-year **B.Tech CSE (Data Science)** student at NIIT University (Class of 20
 
 <br>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=saideepeedara27-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saideepeedara27-alt&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepeedara27-alt&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 <br>
 
-## 📚 Currently Sharpening
+## Placement Prep Focus
 
-| Focus Area | Progress |
+| Area | Progress |
 |---|---|
+| DSA & Problem Solving | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Active Prep |
 | System Design | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ Intermediate |
 | RAG / LLM Pipelines | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ Building |
-| DSA & Problem Solving | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Active Prep |
-| Cloud (beyond EC2) | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ Early Stage |
 
 <br>
 
 <div align="center">
 
-## 📬 Let's Talk
+## Let's Connect
 
-**If you're hiring for SDE, ML, or Data Engineering roles — I'd love to talk.**
+**If you're hiring for full-time SDE, ML, or Data Engineering roles — I'd love to talk.**
 
 <a href="https://linkedin.com/in/saideepeedara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:saideepeedara27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://aqitrends.online"><img src="https://img.shields.io/badge/Live_Project-16A34A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=saideepeedara27-alt&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS"/>
 
 <br><br>
 
