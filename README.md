@@ -1,82 +1,195 @@
-<!-- Profile README — Eedara Sai Deep -->
-
 <h1 align="center">Hi, I'm Sai Deep 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE (Data Science) · NIIT University, Neemrana · Graduating 2027</b><br/>
-  Full-Stack Developer &nbsp;·&nbsp; ML / XAI Enthusiast &nbsp;·&nbsp; Backend Systems Builder
+  <b>B.Tech CSE (Data Science) · NIIT University · 2027</b>
+  <br/>
+  Software Engineering · Backend Systems · AI/ML · Data Engineering
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/saideepeedara">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://aqitrends.online">
-    <img src="https://img.shields.io/badge/Live%20Project-aqitrends.online-1D9E75?style=flat" />
+    <img src="https://img.shields.io/badge/Live-AQI%20Trends-1D9E75?style=flat" />
   </a>
-  &nbsp;
   <a href="mailto:saideepeedara27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-- 🔭 &nbsp;Building production-grade systems — from distributed backends with Redis Streams to live MERN apps with CI/CD
-- 🤖 &nbsp;Actively working on Explainable AI (SHAP + LIME) for soil & crop prediction at NIIT University R&D
-- 🌱 &nbsp;Currently sharpening: System Design, LLM / RAG pipelines, and DSA for placement prep
-- 💼 &nbsp;Open to **SDE / ML / Data Engineering internships** — Summer / Fall 2026
+I'm a final-year **Computer Science (Data Science)** student at NIIT University, interested in building reliable software systems and practical AI/ML applications.
+
+My work spans:
+
+* 🧩 Backend & full-stack application development
+* ⚙️ Distributed systems and API-driven architectures
+* 🤖 Machine Learning, Explainable AI and RAG systems
+* ☁️ Docker, AWS and CI/CD
+* 📊 Data analytics and visualization
+
+I enjoy taking projects from **idea → architecture → implementation → deployment**.
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,postgres,redis,docker,aws,git,github,jenkins,spring" />
-  </a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-333?style=flat" />
-  <img src="https://img.shields.io/badge/LIME-333?style=flat" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi" />
 </p>
 
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,git,github,linux" />
+</p>
+
+### AI / ML & Analytics
+
+`Scikit-learn` · `XGBoost` · `SHAP` · `LIME` · `Pandas` · `NumPy` · `RAG` · `LLM Applications` · `Power BI` · `Tableau`
+
 ---
 
-## Featured projects
+## 🚀 Featured Projects
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| 🌍 **AQI Trends** | Live AQI monitoring across 15+ Indian & 6 global cities with ARIMA / Holt-Winters forecasting | MERN, Jenkins, AWS EC2 | [aqitrends.online](https://aqitrends.online) · [Repo](https://github.com/sathwiksyr/Air-quality-trend-analysis_final) |
-| ⚙️ **DOIMS** | Distributed order & inventory system — async reservation via Redis Streams, atomic stock updates, full CI pipeline | Spring Boot 3, Redis, PostgreSQL, Docker, GitHub Actions | [Repo](https://github.com/saideepeedara27-alt/Distributed-Order-and-Inventory-Management-System-DOIMS) |
-| 🌾 **Kisan Connect** | Farm-to-customer marketplace with role-based dashboards, JWT + Google OAuth, and area-based delivery | MERN, AWS EC2, Caddy, Docker | [Repo](https://github.com/saideepeedara27-alt/Kisan-Connect-MERN-Application) |
-| 🧪 **Explainable AI — Soil Prediction** | Stacking ensemble (RF + Extra Trees + XGBoost) achieving 99.54% accuracy across 22 crop classes with per-prediction SHAP & LIME explanations | Python, XGBoost, SHAP, LIME | 🔒 Repo coming soon |
-| 📊 **Indian Startup Funding Dashboard** | Two-view Tableau dashboard analysing 5 years of startup funding — deal counts, sectors, cities, top investors | Tableau, CSV | [Repo](https://github.com/saideepeedara27-alt/Indian-startup-funding-intelligence-dashboard-tableau) |
+### 🌍 AQI Trends
+
+**Real-time air-quality monitoring and forecasting platform**
+
+Live web application for monitoring air-quality trends across Indian and global cities, with historical analysis and forecasting.
+
+**Tech:** `React` `Node.js` `MongoDB` `ML Forecasting` `AWS EC2` `Docker` `Jenkins`
+
+🔗 [Live Application](https://aqitrends.online) · [Repository](https://github.com/sathwiksyr/Air-quality-trend-analysis_final)
 
 ---
 
-## Currently learning
+### ⚙️ DOIMS
+
+**Distributed Order & Inventory Management System**
+
+Backend-focused system designed around asynchronous order processing, inventory consistency and distributed workflows.
+
+**Tech:** `Java` `Spring Boot` `Redis Streams` `PostgreSQL` `Docker` `GitHub Actions`
+
+🔗 [Repository](https://github.com/saideepeedara27-alt/Distributed-Order-and-Inventory-Management-System-DOIMS)
+
+---
+
+### 🤖 RAG Legal Due Diligence Co-Pilot
+
+**AI-powered document analysis and retrieval system**
+
+A RAG-based application designed to retrieve relevant information from legal documents and provide AI-assisted analysis.
+
+**Tech:** `Python` `FastAPI` `Next.js` `Qdrant` `Gemini` `RAG`
+
+🔗 [Repository](https://github.com/saideepeedara27-alt/rag-legal-due-diligence-copilot)
+
+---
+
+### 📈 Stock Market Prediction Dashboard
+
+**Full-stack ML prediction platform**
+
+Multi-service application combining a React dashboard, Node.js authentication layer and FastAPI-based ML prediction service.
+
+**Tech:** `React` `Node.js` `FastAPI` `Machine Learning` `Docker Compose`
+
+🔗 [Repository](https://github.com/saideepeedara27-alt/stock-market-prediction)
+
+---
+
+### 🌾 Kisan Connect
+
+**Full-stack farm-to-customer marketplace**
+
+MERN application connecting farmers, customers, delivery partners and administrators through role-based workflows.
+
+Includes authentication, marketplace functionality, order management, delivery assignment and cloud deployment.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `Google OAuth` `Docker` `AWS EC2` `GitHub Actions`
+
+🔗 [Repository](https://github.com/saideepeedara27-alt/Kisan-Connect-MERN-Application)
+
+---
+
+### 📊 Indian Startup Funding Intelligence
+
+**Interactive startup funding analytics dashboard**
+
+Tableau dashboard analysing Indian startup funding patterns across deals, sectors, cities and investors.
+
+**Tech:** `Tableau` `Data Analysis` `CSV`
+
+🔗 [Repository](https://github.com/saideepeedara27-alt/Indian-startup-funding-intelligence-dashboard-tableau)
+
+---
+
+## 🧠 Areas of Interest
 
 ```text
-📐 System Design        ████████░░░░   Intermediate
-🔗 RAG / LLM Pipelines  ██████░░░░░░   Building
-🧩 DSA & Problem Solving ████████████  Active prep
-☁️ AWS (beyond EC2)     ████░░░░░░░░   Early stage
+Software Engineering
+Backend Development
+Distributed Systems
+Machine Learning
+Explainable AI
+RAG / LLM Applications
+Data Engineering
+Cloud & DevOps
 ```
 
 ---
 
+## 📚 Currently Exploring
+
+```text
+System Design          ████████░░░░
+DSA & Problem Solving  ███████████░
+RAG / LLM Systems      ████████░░░░
+AWS & Cloud            ██████░░░░░░
+Distributed Systems    ███████░░░░░
+```
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <i>Open to collaborations on full-stack, ML, or AI-powered projects. Let's build something real.</i><br/><br/>
-  <a href="https://linkedin.com/in/saideepeedara">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:saideepeedara27@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://aqitrends.online">Live Project</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=saideepeedara27-alt&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepeedara27-alt&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/saideepeedara">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:saideepeedara27@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/saideepeedara27-alt">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Building software, learning continuously, and turning ideas into working systems.</i>
 </p>
